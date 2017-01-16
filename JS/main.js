@@ -18,3 +18,10 @@ click2.addEventListener("click" , function(){
 	foo.innerHTML="<h1> No.. I'm right!"
 
 })
+
+// chaning inner text of h2 or larting user 
+var fly= document.getElementById("me")
+// adding event listener
+me.addEventListener("mouseover", function(){
+	alert('Told You Not do Hover yo')
+})
