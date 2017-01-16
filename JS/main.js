@@ -23,5 +23,5 @@ click2.addEventListener("click" , function(){
 var fly= document.getElementById("me")
 // adding event listener
 me.addEventListener("mouseover", function(){
-	alert('Told You Not do Hover yo')
+	alert('Told You Not do Hover yo'	)
 })
